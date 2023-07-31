@@ -3,7 +3,7 @@
 
 
 
-[![](https://raw.githubusercontent.com/virejdasani/pythOwO/main/aswets/imwages/pythowo-banner.png)](https://www.youtube.com/watch?v=czZmkh7CY6M)
+[![](https://github.com/Kanishk1764/cheemthon/blob/00505170ce8db04ca059679ab6698fb4c94671db/cheems.JPG)]
 
 <p align="center">
   <b>cheemthon is an newm programming language written in Python. HEHE.</b>
