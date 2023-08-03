@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pypi.org/project/cheemthon/0.0.1/">PythOwO on PyPi</a><br>
+  <a href="https://pypi.org/project/cheemthon/0.0.1/">cheemthon on PyPi</a><br>
 </p>
 
 ```bash
