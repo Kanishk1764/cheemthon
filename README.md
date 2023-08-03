@@ -3,7 +3,7 @@
 
 
 
-[![](banner~cheems.svg)]
+[![](banner.cheems.png)]
 
 <p align="center">
   <b>cheemthon is an newm programming language written in Python. HEHE.</b>
